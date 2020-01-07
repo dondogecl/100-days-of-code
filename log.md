@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: January 07, 2019
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I began reading the book "Hands on Machine Learning with Scikit-learn, Keras & Tensorflow" 2nd edition. Advanced 39 pages and began coding the first machine learning project.
+I also coded some python, changing a Selenium webcrawling/scraping bot to migrate it from windows to a linux VM on GCP. It worked!
+but not the first time... I spent 2 hours making changes and finally a function that detects new downloaded files and renames them works. Going to sleep at 2.44AM now...
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I never tried to run the selenium bot on GCP, because I didn't know if it was possible to run google chrome or any browser on a CLI (without graphics). Now I know that I can using a virtual screen. I need to write a short tutorial about this!
+Finally, NEVER allow a code to change all your filenames without checking first WHERE THE WORKING DIRECTORY/TARGET IS LOCATED! LOL
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [not available this time](#)
